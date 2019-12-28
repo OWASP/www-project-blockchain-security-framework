@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Matthew Pahl](mailto://matthew.pahl@owasp.org)
+* [Matthew Pahl](mailto:matthew.pahl@owasp.org)
