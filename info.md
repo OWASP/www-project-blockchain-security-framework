@@ -1,6 +1,6 @@
 ### Project Information
 * Incubator Project
-* Project Type
+* Documentation
 * Version, etc
 
 ### Downloads or Social Links
