@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Blockchain Security Framework
 tags: example-tag
-level: 0
+level: 2
 type: documentation
 
 auto-migrated: 1
