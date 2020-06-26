@@ -1,5 +1,5 @@
-<!--### Project Information
-* Project Level
+### Project Information
+* Incubator Project
 * Project Type
 * Version, etc
 
@@ -8,4 +8,4 @@
 * [Social Link](#)
 
 ### Code Repository
-* [repo](#)-->
+* [repo](#)
